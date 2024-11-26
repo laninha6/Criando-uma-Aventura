@@ -3,6 +3,7 @@ body{
 color: cyan;
 display: flex;
 justify-content: center;
-
-
+}
+button{
+    background-color: black;
 }
